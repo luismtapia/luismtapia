@@ -25,7 +25,7 @@ Mi nombre es Luis Manuel Tapia Bautista, soy Ingeniero en Sistemas Computacional
 ### Librerias
 ![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&labelColor=white&message=Libreria&color=7952B3&logo=Bootstrap&logoColor=7952B3)
 ![Semantic-UI](https://img.shields.io/static/v1?label=Semantic-UI&labelColor=white&message=Libreria&color=35BDB2&logo=semanticuireact&logoColor=35BDB2)
-
+![Material-UI](https://img.shields.io/static/v1?label=MUI&labelColor=white&message=Libreria&color=007FFF&logo=mui&logoColor=007FFF)
 
 ### Extra knowledge
 ![Node js](https://img.shields.io/static/v1?label=Node.js&labelColor=white&message=Entorno&color=339933&logo=nodedotjs&logoColor=339933)
