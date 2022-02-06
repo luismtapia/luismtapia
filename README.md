@@ -1,5 +1,5 @@
 ### Hi there 👋
-Mi nombre es Luis Manuel Tapia Bautista, soy Ingeniero en Sistemas Computacionales, egresado del TecNM Celaya
+Mi nombre es Luis Manuel Tapia Bautista (luismtapia), soy Ingeniero en Sistemas Computacionales, egresado del TecNM Celaya
 
 # My skills
 ### Programing
@@ -31,7 +31,11 @@ Mi nombre es Luis Manuel Tapia Bautista, soy Ingeniero en Sistemas Computacional
 ![Node js](https://img.shields.io/static/v1?label=Node.js&labelColor=white&message=Entorno&color=339933&logo=nodedotjs&logoColor=339933)
 
 
-
+### Something else
+- 🔭 I’m currently working on ..._searching_
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on ..._searching_
+- I like to play video games and create apps
 
 <!--
 Here are some ideas to get you started:
