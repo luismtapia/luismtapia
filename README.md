@@ -1,51 +1,72 @@
-### Hi there 👋
-Mi nombre es Luis Manuel Tapia Bautista (luismtapia), soy Ingeniero en Sistemas Computacionales, egresado del TecNM Celaya
+# 👋 Hola, soy Luis Manuel Tapia Bautista
 
-# My skills
-### Programing
-![Java](https://img.shields.io/static/v1?label=Programming%20Java&labelColor=white&message=Language&color=007396&logo=java&logoColor=007396)
-![C](https://img.shields.io/static/v1?label=Programming%20C&labelColor=white&message=Language&color=A8B9CC&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/static/v1?label=Programming%20C%2B%2B&labelColor=white&message=Language&color=00599C&logo=cplusplus&logoColor=00599C)
-![HMTL](https://img.shields.io/static/v1?label=Programming%20HTML&labelColor=white&message=Language&color=E34F26&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/static/v1?label=Programming%20CSS&labelColor=white&message=Language&color=1572B6&logo=css3&logoColor=1572B6)
-![php](https://img.shields.io/static/v1?label=Programming%20PHP&labelColor=white&message=Language&color=8993be&logo=php&logoColor=8993be)
-![Javascript](https://img.shields.io/static/v1?label=Programming%20JavaScript&labelColor=white&message=Language&color=F7DF1E&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/static/v1?label=Programming%20Dart&labelColor=white&message=Language&color=0175C2&logo=dart&logoColor=0175C2)
-![Flutter](https://img.shields.io/static/v1?label=Programming%20Flutter&labelColor=white&message=Language&color=02569B&logo=flutter&logoColor=02569B)
+🎓 Ingeniero en Sistemas Computacionales egresado del [TecNM Celaya](https://www.itcelaya.edu.mx/), apasionado por el desarrollo de software, la arquitectura modular y el diseño de experiencias digitales. Me especializo en Flutter, UI/UX, y soluciones escalables para clientes empresariales.
 
-### Databases
-![SQL](https://img.shields.io/static/v1?label=Programming%20SQL&labelColor=white&message=Language&color=4479A1&logo=mysql&logoColor=4479A1)
-![MySQL](https://img.shields.io/static/v1?label=MySQL&labelColor=white&message=DBMS&color=4479A1&logo=mysql&logoColor=4479A1)
-![Microsoft SQL Server](https://img.shields.io/static/v1?label=Microsoft%20SQL%20Server&labelColor=white&message=DBMS&color=CC2927&logo=microsoftsqlserver&logoColor=CC2927)
+---
 
-### Frameworks
-![Laravel](https://img.shields.io/static/v1?label=Laravel&labelColor=white&message=Framework&color=FF2D20&logo=laravel&logoColor=FF2D20)
-![React](https://img.shields.io/static/v1?label=React&labelColor=white&message=Framework&color=61DAFB&logo=react&logoColor=#61DAFB)
+## 🚀 Tecnologías y herramientas
 
-### Librerias
-![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&labelColor=white&message=Libreria&color=7952B3&logo=Bootstrap&logoColor=7952B3)
-![Semantic-UI](https://img.shields.io/static/v1?label=Semantic-UI&labelColor=white&message=Libreria&color=35BDB2&logo=semanticuireact&logoColor=35BDB2)
-![Material-UI](https://img.shields.io/static/v1?label=MUI&labelColor=white&message=Libreria&color=007FFF&logo=mui&logoColor=007FFF)
+### 🧠 Lenguajes de programación  
+![Dart](https://img.shields.io/static/v1?label=Dart&labelColor=white&message=Language&color=0175C2&logo=dart)  
+![Flutter](https://img.shields.io/static/v1?label=Flutter&labelColor=white&message=Framework&color=02569B&logo=flutter)  
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&labelColor=white&message=Language&color=F7DF1E&logo=javascript)  
+![Java](https://img.shields.io/static/v1?label=Java&labelColor=white&message=Language&color=007396&logo=java)  
+![C](https://img.shields.io/static/v1?label=C&labelColor=white&message=Language&color=A8B9CC&logo=c)  
+![C++](https://img.shields.io/static/v1?label=C%2B%2B&labelColor=white&message=Language&color=00599C&logo=cplusplus)  
+![HTML](https://img.shields.io/static/v1?label=HTML&labelColor=white&message=Language&color=E34F26&logo=html5)  
+![CSS](https://img.shields.io/static/v1?label=CSS&labelColor=white&message=Language&color=1572B6&logo=css3)  
+![PHP](https://img.shields.io/static/v1?label=PHP&labelColor=white&message=Language&color=8993be&logo=php)
 
-### Extra knowledge
-![Node js](https://img.shields.io/static/v1?label=Node.js&labelColor=white&message=Entorno&color=339933&logo=nodedotjs&logoColor=339933)
+### 🗄️ Bases de datos  
+![SQL](https://img.shields.io/static/v1?label=SQL&labelColor=white&message=Language&color=4479A1&logo=mysql)  
+![MySQL](https://img.shields.io/static/v1?label=MySQL&labelColor=white&message=DBMS&color=4479A1&logo=mysql)  
+![SQL Server](https://img.shields.io/static/v1?label=SQL%20Server&labelColor=white&message=DBMS&color=CC2927&logo=microsoftsqlserver)
 
+### 🧩 Frameworks y librerías  
+![React](https://img.shields.io/static/v1?label=React&labelColor=white&message=Framework&color=61DAFB&logo=react)  
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&labelColor=white&message=Library&color=7952B3&logo=bootstrap)  
+![Semantic UI](https://img.shields.io/static/v1?label=Semantic%20UI&labelColor=white&message=Library&color=35BDB2&logo=semanticuireact)  
+![Material UI](https://img.shields.io/static/v1?label=Material%20UI&labelColor=white&message=Library&color=007FFF&logo=mui)
 
-### Something else
-- 🔭 I’m currently working on ..._searching_
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ..._searching_
-- I like to play video games and create apps
+### ⚙️ Otros conocimientos  
+![Node.js](https://img.shields.io/static/v1?label=Node.js&labelColor=white&message=Runtime&color=339933&logo=nodedotjs)
 
-<!--
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Actualmente...
+
+- 🔍 Buscando oportunidades para colaborar en proyectos profesionales de desarrollo móvil y web.  
+- 🌱 Aprendiendo más sobre JavaScript y buenas prácticas de arquitectura de software.  
+- 🎮 Disfrutando de los videojuegos y creando apps que conectan tecnología con experiencia de usuario.
+
+---
+
+## 🌟 Proyectos destacados
+
+### 🩺 PodoStock  
+Plataforma modular para clínicas y profesionales de la salud. Incluye login con OAuth (Google/Facebook), splash screen animado, persistencia de sesión y diseño UI/UX centrado en confianza y profesionalismo.
+
+### 🩺 PodoStep  
+Soluciones para podologia.
+
+### 📇 Tarjetas de presentación digitales  
+Sistema de tarjetas interactivas para negocios, integrando branding, contacto y catálogo de servicios. Optimizado para dispositivos móviles y escaneables vía QR.
+
+### 📊 Dashboard de métricas clínicas  
+Interfaz visual para seguimiento de pacientes, con gráficas dinámicas tipo ECG y navegación fluida. Desarrollado en Flutter con animaciones personalizadas.
+
+---
+
+## 📫 ¿Hablamos?
+
+Estoy abierto a colaboraciones, propuestas freelance o posiciones profesionales.  
+Puedes contactarme por correo, teléfono o a través de mis redes:
+
+- ✉️ **luis.tapia.11.90@gmail.com**  
+- 📞 **+52 461 232 3069**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luismtapia)  
+- 🌐 [Portafolio](https://luismtapia.dev) *(en construcción)*
+
+---
+
+> “El código bien escrito no solo funciona, también cuenta una historia.”
