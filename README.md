@@ -43,8 +43,11 @@
 
 ## 🌟 Proyectos destacados
 
+### LandingPage PodoStep
+Página web para mostrar información de podología solicitada por cliente [podostep.com](https://luismtapia.github.io/podo-step)  
+
 ### 🩺 PodoStock  
-Plataforma modular para clínicas y profesionales de la salud. Incluye login con OAuth (Google/Facebook), splash screen animado, persistencia de sesión y diseño UI/UX centrado en confianza y profesionalismo.
+Plataforma modular para clínicas y profesionales de la salud. Incluye login con OAuth (Google/Facebook), splash screen animado, persistencia de sesión y diseño UI/UX centrado en confianza y profesionalismo para controlar inventario con lectura de código de barras para obtener los datos del producto.
 
 ### 🩺 PodoStep  
 Soluciones para podologia.
