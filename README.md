@@ -43,6 +43,15 @@
 
 ## 🌟 Proyectos destacados
 
+### 📊 Analizador de texto para métricas de un texto dado o un archivo de texto
+**Paquete funcional y modular en JavaScript para extraer métricas clave de cualquier texto.**  
+Ideal para proyectos que requieren análisis sintáctico básico, conteo de elementos y validación textual.
+
+[![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+[![npm downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+
+
+
 ### LandingPage PodoStep
 Página web para mostrar información de podología solicitada por cliente [podostep.com](https://luismtapia.github.io/podo-step)  
 
@@ -55,8 +64,7 @@ Soluciones para podologia.
 ### 📇 Tarjetas de presentación digitales  
 Sistema de tarjetas interactivas para negocios, integrando branding, contacto y catálogo de servicios. Optimizado para dispositivos móviles y escaneables vía QR.
 
-### 📊 Dashboard de métricas clínicas  
-Interfaz visual para seguimiento de pacientes, con gráficas dinámicas tipo ECG y navegación fluida. Desarrollado en Flutter con animaciones personalizadas.
+
 
 ---
 
