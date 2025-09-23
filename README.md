@@ -72,12 +72,17 @@ o
 <br>
 
 ---
-
+<p align="center">
+   Podo Step
+   <br>
+   Sitio web PodoStep muestra información detallada sobre los servicios de podología que ofrece la clínica, así como la información de contacto para que los usuarios puedan agendar citas e información extra sobre el cuidado de los pies.
+</p>
+   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step" />
 </p>
 
-**LandingPage PodoStep** Página web [podostep.com](https://luismtapia.github.io/podo-step)  
+Visita la página web [podostep.com](https://luismtapia.github.io/podo-step)  
 
 <br>
 <br>
