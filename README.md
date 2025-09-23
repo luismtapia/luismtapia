@@ -45,7 +45,10 @@
 
 ---
 
-## 🌟 Proyectos destacados
+<br>
+<p align="center">
+   # Proyectos destacados
+</p>
 
 ### 📊 Analizador de texto para métricas de un texto dado o un archivo de texto
 **Paquete funcional y modular en JavaScript para extraer métricas clave de cualquier texto.**  
@@ -54,10 +57,34 @@ Ideal para proyectos que requieren análisis sintáctico básico, conteo de elem
 [![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
 [![npm downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
 
+o
 
-### LandingPage PodoStep
-Página web para mostrar información de podología solicitada por cliente [podostep.com](https://luismtapia.github.io/podo-step)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text" />
+</p>
+
+---
+
+<br>
+<br>
+<br>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step" />
+</p>
+
+**LandingPage PodoStep** Página web [podostep.com](https://luismtapia.github.io/podo-step)  
+
+<br>
+<br>
+<br>
+
+---
+
 
 ### 🩺 PodoStock  
 Plataforma modular para clínicas y profesionales de la salud. Incluye login con OAuth (Google/Facebook), splash screen animado, persistencia de sesión y diseño UI/UX centrado en confianza y profesionalismo para controlar inventario con lectura de código de barras para obtener los datos del producto.
