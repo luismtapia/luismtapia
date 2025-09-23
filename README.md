@@ -75,7 +75,7 @@ Puedes contactarme por correo, teléfono o a través de mis redes:
 
 - ✉️ **luis.tapia.11.90@gmail.com**  
 - 📞 **+52 461 232 3069**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luismtapia)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-manuel-tapia-bautista-0b318b216)  
 - 🌐 [Portafolio](https://luismtapia.dev) *(en construcción)*
 
 ---
