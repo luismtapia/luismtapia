@@ -46,16 +46,25 @@
 ---
 
 <br>
-<p align="center">
-   # Proyectos destacados
-</p>
+<h2 align="center">
+   Proyectos destacados
+</h2>
 
-### 📊 Analizador de texto para métricas de un texto dado o un archivo de texto
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
+
+
+
+<br>
+<h2 align="center">
+   Analizador de texto
+</h2>
+
 **Paquete funcional y modular en JavaScript para extraer métricas clave de cualquier texto.**  
 Ideal para proyectos que requieren análisis sintáctico básico, conteo de elementos y validación textual.
 
-[![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
-[![npm downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+<br>
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
 
@@ -65,24 +74,54 @@ o
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text" />
 </p>
 
----
-
-<br>
-<br>
 <br>
 
+<div align="right">
+
+[![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+[![npm downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+
+</div>
+
 ---
-<p align="center">
+<br>
+<br>
+
+
+
+
+<h2 align="center">
    Podo Step
-   <br>
+</h2>
+
    Sitio web PodoStep muestra información detallada sobre los servicios de podología que ofrece la clínica, así como la información de contacto para que los usuarios puedan agendar citas e información extra sobre el cuidado de los pies.
-</p>
-   
+
+ 
+  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step" />
 </p>
 
+<br>
+
 Visita la página web [podostep.com](https://luismtapia.github.io/podo-step)  
+
+<br>
+<br>
+<br>
+
+<div align="right">
+   
+[![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
+</div>
+
+---
+
+
+
+
+---
+
 
 <br>
 <br>
@@ -94,11 +133,19 @@ Visita la página web [podostep.com](https://luismtapia.github.io/podo-step)
 ### 🩺 PodoStock  
 Plataforma modular para clínicas y profesionales de la salud. Incluye login con OAuth (Google/Facebook), splash screen animado, persistencia de sesión y diseño UI/UX centrado en confianza y profesionalismo para controlar inventario con lectura de código de barras para obtener los datos del producto.
 
+
+
+
+
+
+
+
+
+
 ### 🩺 PodoStep  
 Soluciones para podologia.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
 
 ---
 
