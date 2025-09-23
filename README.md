@@ -2,6 +2,10 @@
 
 🎓 Ingeniero en Sistemas Computacionales egresado del [TecNM Celaya](https://www.itcelaya.edu.mx/), apasionado por el desarrollo de software, la arquitectura modular y el diseño de experiencias digitales. Me especializo en Flutter, UI/UX, y soluciones escalables para clientes empresariales.
 
+
+[![Luis Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismtapia&show_icons=true&theme=merko)](https://github.com/luismtapia)
+
+
 ---
 
 ## 🚀 Tecnologías y herramientas
@@ -61,10 +65,8 @@ Plataforma modular para clínicas y profesionales de la salud. Incluye login con
 ### 🩺 PodoStep  
 Soluciones para podologia.
 
-### 📇 Tarjetas de presentación digitales  
-Sistema de tarjetas interactivas para negocios, integrando branding, contacto y catálogo de servicios. Optimizado para dispositivos móviles y escaneables vía QR.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
 
 ---
 
