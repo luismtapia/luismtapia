@@ -51,14 +51,14 @@
 </h2>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact" alt="Top Langs">
+</div>
 
-
-
-<br>
-<h2 align="center">
+<br><br><br>
+<h3 align="center">
    Analizador de texto
-</h2>
+</h3>
 
 **Paquete funcional y modular en JavaScript para extraer métricas clave de cualquier texto.**  
 Ideal para proyectos que requieren análisis sintáctico básico, conteo de elementos y validación textual.
@@ -104,21 +104,9 @@ o
 
 <br>
 
-Visita la página web [podostep.com](https://luismtapia.github.io/podo-step)  
+[![Static Badge](https://img.shields.io/badge/Visita%20la%20pagina%20web%20-%20podostep.com%20-%20%23F54927?style=flat&logo=firefoxbrowser&logoColor=%23FF7139&labelColor=%231F3A4B&color=%23FF7F11)](https://luismtapia.github.io/podo-step)
 
 <br>
-<br>
-<br>
-
-<div align="right">
-   
-[![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
-</div>
-
----
-
-
-
 
 ---
 
