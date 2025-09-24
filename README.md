@@ -116,7 +116,29 @@ o
 <br>
 
 ---
+<br>
+<br>
 
+
+
+
+<h2 align="center">
+   Portafolio en flutter
+</h2>
+
+   Portafolio digital desarrollado en flutter
+
+ 
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=portafolio-flutter" />
+</p>
+
+<br>
+
+[![Static Badge](https://img.shields.io/badge/Visita%20la%20pagina%20web%20-%20podostep.com%20-%20%23F54927?style=flat&logo=flutter&logoColor=%23FF7139&labelColor=%231F3A4B&color=%23FF7F11)](https://luismtapia.github.io/portafolio-flutter)
+
+<br>
 
 ### 🩺 PodoStock  
 Plataforma modular para clínicas y profesionales de la salud. Incluye login con OAuth (Google/Facebook), splash screen animado, persistencia de sesión y diseño UI/UX centrado en confianza y profesionalismo para controlar inventario con lectura de código de barras para obtener los datos del producto.
