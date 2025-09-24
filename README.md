@@ -35,6 +35,14 @@
 ### ⚙️ Otros conocimientos  
 ![Node.js](https://img.shields.io/static/v1?label=Node.js&labelColor=white&message=Runtime&color=339933&logo=nodedotjs)
 
+
+### Tecnologías
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+
+
 ---
 
 ## 💼 Actualmente...
