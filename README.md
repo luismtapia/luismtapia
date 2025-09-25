@@ -58,10 +58,9 @@
    Proyectos destacados
 </h2>
 
+[![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact" alt="Top Langs">
-</div>
+
 
 <br><br><br>
 <h3 align="center">
@@ -76,11 +75,6 @@ Ideal para proyectos que requieren análisis sintáctico básico, conteo de elem
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
 
-o
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text" />
-</p>
 
 <br>
 
@@ -104,11 +98,9 @@ o
 
    Sitio web PodoStep muestra información detallada sobre los servicios de podología que ofrece la clínica, así como la información de contacto para que los usuarios puedan agendar citas e información extra sobre el cuidado de los pies.
 
- 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step)](https://github.com/luismtapia/podo-step)  
+
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step" />
-</p>
 
 <br>
 
@@ -136,11 +128,11 @@ o
 
    Portafolio digital desarrollado en flutter
 
- 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=portafolio-flutter)](https://github.com/luismtapia/portafolio-flutter)  
+
   
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=portafolio-flutter" />
-</p>
+  
+<br>
 
 <br>
 
@@ -156,27 +148,40 @@ Plataforma modular para clínicas y profesionales de la salud. Incluye login con
 
 
 
+<h2 align="center">
+   Roblox codes
+</h2>
 
+   La app para jugadores de Roblox que buscan eficiencia
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=roblox-codes)](https://github.com/luismtapia/roblox-codes)  
 
-
-### 🩺 PodoStep  
-Soluciones para podologia.
 
 
 
 ---
 
-## 📫 ¿Hablamos?
+<br><br><br>
+<h2 align="center">
+📫 ¿Hablamos?
+</h2>
+<br>
 
-Estoy abierto a colaboraciones, propuestas freelance o posiciones profesionales.  
+> [!NOTE]
+> Estoy abierto a colaboraciones, propuestas freelance o posiciones profesionales.  
 Puedes contactarme por correo, teléfono o a través de mis redes:
+
+<br><br><br><br>
 
 - ✉️ **luis.tapia.11.90@gmail.com**  
 - 📞 **+52 461 232 3069**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/luis-manuel-tapia-bautista-0b318b216)  
 - 🌐 [Portafolio](https://github.com/luismtapia/portafolio) *(en construcción)*
 
----
+<br><br><br><br><br>
 
 > “El código bien escrito no solo funciona, también cuenta una historia.”
+
+
+
+
