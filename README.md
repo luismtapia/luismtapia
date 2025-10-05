@@ -6,9 +6,81 @@
 [![Luis Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismtapia&show_icons=true&theme=merko)](https://github.com/luismtapia)
 
 
+<br><br><br>
+<h2 align="center">
+📫 ¿Hablamos?
+</h2>
+<br>
+
+> [!NOTE]
+> Estoy abierto a colaboraciones, propuestas freelance o posiciones profesionales.  
+Puedes contactarme por correo, teléfono o a través de mis redes:
+
+<br><br><br><br>
+
+- ✉️ **luis.tapia.11.90@gmail.com**  
+- 📞 **+52 461 232 3069**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-manuel-tapia-bautista-0b318b216)  
+- 🌐 [Portafolio](https://github.com/luismtapia/portafolio) *(en construcción)*
+
+
+
 ---
 
 ## 🚀 Tecnologías y herramientas
+
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" height="64"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="64"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
+          
+</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" />
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Icon" />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,nosejs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,,c,c++" />
+  </a>
+</p>
+
+
+
+
+<p align="center">
+   <img src="https://cdn.simpleicons.org/dart/F7DF1E" alt="Javascript" width="64" height="64">
+   <br>
+   <img src="https://cdn.simpleicons.org/flutter/F7DF1E" alt="html5" width="64" height="64">
+   <br>
+   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="64" height="64">
+   <br>
+| 
+   <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="64" height="64">
+   <span style="color:#CB3837; font-weight:bold;">npm</span>  
+|    
+   <img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="node" width="64" height="64">
+
+  <img src="https://skillicons.dev/icons?i=javascript,npm,node?theme=light" />
+
+  
+</p>
+
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+
+
 
 ### 🧠 Lenguajes de programación  
 ![Dart](https://img.shields.io/static/v1?label=Dart&labelColor=white&message=Language&color=0175C2&logo=dart)  
@@ -61,30 +133,44 @@
 [![Lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=luismtapia&layout=compact)](https://github.com/luismtapia)
 
 
+<br><br>
+[![Static Badge](https://img.shields.io/badge/Proyectos%20Open%20source-%23FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=%233DA639&labelColor=%23FFFFFF)](https://github.com/luismtapia/portafolio###🌐-proyectos-públicos)
 
-<br><br><br>
-<h3 align="center">
-   Analizador de texto
-</h3>
 
-**Paquete funcional y modular en JavaScript para extraer métricas clave de cualquier texto.**  
-Ideal para proyectos que requieren análisis sintáctico básico, conteo de elementos y validación textual.
+[![Analizador de textos](https://img.shields.io/badge/Analizador%20de%20textos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](https://github.com/luismtapia/portafolio#analizador-de-texto)
+
+[![Podo Step](https://img.shields.io/badge/Podo%20Step%20Landing%20Page-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](https://github.com/luismtapia/portafolio#podo-step)
+
+[![Semaforo](https://img.shields.io/badge/Semaforo-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](https://github.com/luismtapia/portafolio#semaforo)
+
+[![Banco](https://img.shields.io/badge/Banco-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](https://github.com/luismtapia/portafolio#banco)
+
+[![Memoria](https://img.shields.io/badge/Memoria-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](https://github.com/luismtapia/portafolio#memoria-texto)
+
+[![Archivos](https://img.shields.io/badge/Archivos-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#archivos)
+
+[![chatLS](https://img.shields.io/badge/ChatLynceSpace-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#chatLS)
+
+[![Adopta Pet](https://img.shields.io/badge/Adoptapet-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#)
+
+[![SBR](https://img.shields.io/badge/Sistema%20Basado%20en%20Reglas-%23FFFFFF?style=flat-square&logo=github&logoColor=%23181717&labelColor=%23Ffffff)](#)
+
+
+
+<br><br>
+[![Static Badge](https://img.shields.io/badge/Proyectos%20Privados-%23FFFFFF?style=for-the-badge&logo=opensourceinitiative&logoColor=%233DA639&labelColor=%23FFFFFF)](https://opensource.org/)
 
 <br>
 
+[![Portafolio flutter](https://img.shields.io/badge/Portafolio-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#portafolio)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=analyzer-text)](https://github.com/luismtapia/analyzer-text)
+[![Medical](https://img.shields.io/badge/Medical-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#medical)
 
+[![Roblox codes](https://img.shields.io/badge/Roblox%20Codes-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#roblox-codes)
 
-<br>
+[![Podostock](https://img.shields.io/badge/Podostock-%23FFFFFF?style=flat-square&logo=refinedgithub&logoColor=%23181717&labelColor=%23Ffffff)](#podostock)
 
-<div align="right">
-
-[![npm version](https://img.shields.io/npm/v/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
-[![npm downloads](https://img.shields.io/npm/dt/analyzer-text.svg)](https://www.npmjs.com/package/analyzer-text)
-
-</div>
-
+ 
 ---
 <br>
 <br>
@@ -98,26 +184,6 @@ Ideal para proyectos que requieren análisis sintáctico básico, conteo de elem
 
    Sitio web PodoStep muestra información detallada sobre los servicios de podología que ofrece la clínica, así como la información de contacto para que los usuarios puedan agendar citas e información extra sobre el cuidado de los pies.
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=podo-step)](https://github.com/luismtapia/podo-step)  
-
-  
-
-<br>
-
-[![Static Badge](https://img.shields.io/badge/Visita%20la%20pagina%20web%20-%20podostep.com%20-%20%23F54927?style=flat&logo=firefoxbrowser&logoColor=%23FF7139&labelColor=%231F3A4B&color=%23FF7F11)](https://luismtapia.github.io/podo-step)
-
-<br>
-
----
-
-
-<br>
-<br>
-<br>
-
----
-<br>
-<br>
 
 
 
@@ -148,35 +214,11 @@ Plataforma modular para clínicas y profesionales de la salud. Incluye login con
 
 
 
-<h2 align="center">
-   Roblox codes
-</h2>
-
-   La app para jugadores de Roblox que buscan eficiencia
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luismtapia&repo=roblox-codes)](https://github.com/luismtapia/roblox-codes)  
-
 
 
 
 ---
 
-<br><br><br>
-<h2 align="center">
-📫 ¿Hablamos?
-</h2>
-<br>
-
-> [!NOTE]
-> Estoy abierto a colaboraciones, propuestas freelance o posiciones profesionales.  
-Puedes contactarme por correo, teléfono o a través de mis redes:
-
-<br><br><br><br>
-
-- ✉️ **luis.tapia.11.90@gmail.com**  
-- 📞 **+52 461 232 3069**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis-manuel-tapia-bautista-0b318b216)  
-- 🌐 [Portafolio](https://github.com/luismtapia/portafolio) *(en construcción)*
 
 <br><br><br><br><br>
 
