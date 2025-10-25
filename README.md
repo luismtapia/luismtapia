@@ -3,95 +3,115 @@
 🎓 Ingeniero en Sistemas Computacionales egresado del [TecNM Celaya](https://www.itcelaya.edu.mx/), apasionado por el desarrollo de software, la arquitectura modular y el diseño de experiencias digitales. Me especializo en Flutter, UI/UX, y soluciones escalables para clientes empresariales.
 
 
-[![Luis Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismtapia&show_icons=true&theme=merko)](https://github.com/luismtapia)
-
+<div align="right">
+   <a href="[mailto: luis.tapia.11.90@gmail.com](https://github.com/luismtapia)">
+      <img src="https://github-readme-stats.vercel.app/api?username=luismtapia&show_icons=true&theme=merko" alt="stats" />
+   </a>
+</div>
 
 <br><br><br>
 <h2 align="center">
-📫 ¿Hablamos?
+📫 Conectemos
 </h2>
-<br>
 
 > [!NOTE]
 > Estoy abierto a colaboraciones, propuestas freelance o posiciones profesionales.  
 Puedes contactarme por correo, teléfono o a través de mis redes:
 
-<br><br><br><br>
+<br>
+<div align="center">
+   <a href="mailto: luis.tapia.11.90@gmail.com">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="44" />
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://wa.me/524612323069/?text=Buen+dia%2C+Luis+Manuel+te+contacto+para">
+      <img src="https://cdn.simpleicons.org/whatsapp/25D366" alt="Whatsapp" height="44" />
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/luis-manuel-tapia-bautista-0b318b216">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="44" />
+   </a>
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="tel:+524612323069">
+      <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telefóno" height="44" />
+   </a>
+</div>
+<br><br><br>
 
-- ✉️ **luis.tapia.11.90@gmail.com**  
-- 📞 **+52 461 232 3069**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luis-manuel-tapia-bautista-0b318b216)  
-- 🌐 [Portafolio](https://github.com/luismtapia/portafolio) *(en construcción)*
-
-
+### 💼 [**Portafolio**](https://github.com/luismtapia/portafolio) *(en construcción)*
 
 ---
-
+<br><br><br><br><br>
 ## 🚀 Tecnologías y herramientas
 
 
-Frameworks
+<!--#################################################################################################################-->
+<!--####################################       Frameworks      ######################################################-->
+![Material UI](https://img.shields.io/static/v1?label=Frameworks&labelColor=white&message=Library&color=007FFF&logo=mui)
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="64"/>
    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
-   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" height="64"/></a>
-   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="Node js" height="64"/></a>
 </p>
 
 
-<div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="64" />
-</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="" height="64" />
+
+<!--#################################################################################################################-->
+<!--####################################       SQL        ###########################################################-->
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="22" />
+   <img src="https://img.shields.io/badge/Structured%20Query%20Language-3282B8" height="64" />
+</div>
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="" height="64" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="" height="64" />
-
-</p>
-<p align="right">
+   &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="" height="64" />
 </p>
 
 
-<p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" height="64"/>
-   
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="64" />
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Icon" />
+
+<!--#################################################################################################################-->
+<!--####################################       Runtime       ########################################################-->
+![Node.js](https://img.shields.io/static/v1?label=Node.js&labelColor=white&message=Runtime&color=339933&logo=nodedotjs)
+
+<p align="center">
+   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" height="64"/></a>
+   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="Node js" height="64"/></a>
 </p>
+
           
 
 
 
+<!--#################################################################################################################-->
+<!--####################################       Languages      #######################################################-->
+![React](https://img.shields.io/static/v1?label=programming&labelColor=white&message=language&color=1565C0&logo=libretranslate&logoColor=1565C0)  
+
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" height="64"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="64" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java Icon" />
+</p>
+
+
+
+
+
+
+
 
 
 
 <p align="center">
-   <img src="https://cdn.simpleicons.org/dart/F7DF1E" alt="Javascript" width="64" height="64">
-   <br>
-   <img src="https://cdn.simpleicons.org/flutter/F7DF1E" alt="html5" width="64" height="64">
    <br>
    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Javascript" width="64" height="64">
    <br>
-| 
-   <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="64" height="64">
-   <span style="color:#CB3837; font-weight:bold;">npm</span>  
-|    
-   <img src="https://cdn.simpleicons.org/node.js/5FA04E" alt="node" width="64" height="64">
-
-  <img src="https://skillicons.dev/icons?i=javascript,npm,node?theme=light" />
-
   
 </p>
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,nosejs" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -231,6 +251,16 @@ Frameworks
 Plataforma modular para clínicas y profesionales de la salud. Incluye login con OAuth (Google/Facebook), splash screen animado, persistencia de sesión y diseño UI/UX centrado en confianza y profesionalismo para controlar inventario con lectura de código de barras para obtener los datos del producto.
 
 
+
+
+<div align="center">
+   <a href="https://www.credly.com">
+      <img src="https://raw.githubusercontent.com/luismtapia/portafolio/refs/heads/master/I_S_FullJavaScript.png" alt="Certificado Bedu" height="120"/>
+   </a>
+   <a href="credly.com">
+      <img src="https://raw.githubusercontent.com/luismtapia/portafolio/refs/heads/master/I_S_FullJavaScript.png" alt="Certificado Bedu" height="120"/>
+   </a>
+</div>
 
 
 ![Certificado Bedu](https://raw.githubusercontent.com/luismtapia/portafolio/refs/heads/master/I_S_FullJavaScript.png)
