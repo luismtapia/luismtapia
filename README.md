@@ -38,9 +38,16 @@ Frameworks
    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="Node js" height="64"/></a>
 </p>
 
+
+<div align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="64" />
+</div>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="" height="64" />
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="" height="64" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="" height="64" />
+
 </p>
 <p align="right">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" alt="" height="64" />
@@ -56,7 +63,6 @@ Frameworks
 </p>
           
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="64" />
 
 
 
@@ -227,7 +233,7 @@ Plataforma modular para clínicas y profesionales de la salud. Incluye login con
 
 
 
-
+![Certificado Bedu](https://raw.githubusercontent.com/luismtapia/portafolio/refs/heads/master/I_S_FullJavaScript.png)
 
 
 
